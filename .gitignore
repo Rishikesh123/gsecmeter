@@ -1,0 +1,16 @@
+gsecmeter/__pycache__/
+gsecWorkStatus/__pycache__/
+add
+gsecWorkStatus/migrations/__init__.py
+gsecWorkStatus/migrations/__pycache__
+../.idea/inspectionProfiles/Project_Default.xml
+../.idea/gs-meter-djsngo.iml
+../.idea/misc.xml
+../.idea/modules.xml
+../.idea/vcs.xml
+../.idea/workspace.xml
+gsecWorkStatus/__pycache__/admin.cpython-36.pyc
+gsecWorkStatus/__pycache__/__init__.cpython-36.pyc
+gsecWorkStatus/__pycache__/models.cpython-36.pyc
+gsecWorkStatus/__pycache__/urls.cpython-36.pyc
+gsecWorkStatus/__pycache__/views.cpython-36.pyc
